@@ -1,2 +1,0 @@
-csc放在Assets
-api Compatibility Level 选择 .Net Framework
