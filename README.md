@@ -4,3 +4,4 @@
 3. LoadOutSideTexture 加载外部图片并转换为纹理
 4. Sqlit3 进行数据库的增删改查
 5. GUIManager 控制页面显示，隐藏
+6. SceneManager 切换场景
