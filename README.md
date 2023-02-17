@@ -5,3 +5,4 @@
 4. Sqlit3 进行数据库的增删改查
 5. GUIManager 控制页面显示，隐藏
 6. SceneManager 切换场景
+7. Editor Config Dictionary 编辑器中手动配置数据，自动转换为字典
