@@ -6,3 +6,4 @@
 5. GUIManager 控制页面显示，隐藏
 6. SceneManager 切换场景
 7. Editor Config Dictionary 编辑器中手动配置数据，自动转换为字典
+8. AssetBundlesManager ab包异步加载
